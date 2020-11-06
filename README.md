@@ -1,4 +1,5 @@
 # Python_from_Scratch
+This is a repository storing review files for learning Python from the beginning.
 
 1. [Getting started with Python](https://github.com/krmullaney/Python_from_Scratch/blob/main/1-getting-started-with-python.ipynb)  
 2. [Data types](https://github.com/krmullaney/Python_from_Scratch/blob/main/2-data-types.ipynb)  
